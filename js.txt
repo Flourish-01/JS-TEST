@@ -26,8 +26,8 @@
       '>= -greater than or equal to ' it checks if the value on the left and side is greater than or equal to the value on the right and side 
       '== -double assignment operator ' - it checks if the value Right hand side = To value on the Left amd side 
       'eval evaluate'it evaluates the value given 
-      
-
+        
+    
 
 2. Tenary operators usually have 3 operands eg the if else statement
 if(condition to be met ){
