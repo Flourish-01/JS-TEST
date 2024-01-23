@@ -1,0 +1,37 @@
+                                    section A
+
+ 
+
+2. .shift()- to remove the first item in the Array or object
+    .unshift() - to add the item to the first item in the Array or object
+    .pop() - it removes the last item in the  array or object 
+    .push() - it adds a new item to the Array, object, (to the back)
+    .slice() - as the name implies , it can cut a string into two, it can be used to seperate strings
+
+
+  
+                                    section B
+1. a. '*- multiplication' it is used to perform  multiplication  operation on number data type
+      '+ - addition' it can be used to perform addition operation or concertination of strings
+      '- subtraction' it is used to perform subtraction operation on number data type
+      '= assignment operator' it is used to assign the value on the write hand sideto equals the value on the left hand side 
+      '/ - division operator' it is used to perform division operation on number data type
+      '% - modulus operator' it is used to perform division operation on number data type and give the remainder
+      '=== strict assignment operator' it  checks if the value is strictly the same in value and data type
+      '** - raised to power ' it raises the integer to the power of something; (2**3 means 2 raised to  the power of 3)
+      '< -less than' it checks if the value on the left and side is less than the value on the right and side
+      '<= -less than or equal to ' it checks if the value on the left and side is less than or equal to the value on the right and side
+
+       '> -greater than' it checks if the value on the left and side is greater than the value on the right and side
+      '>= -greater than or equal to ' it checks if the value on the left and side is greater than or equal to the value on the right and side 
+      
+
+
+2. Tenary operators usually have 3 operands eg the if else statement
+if(condition to be met ){
+    what happens when condition is met
+} else{
+    what happens when the condition is not met
+} 
+
+it can be written this way: condition to be met? what happens when condition is met: what happens when the condition is not met
