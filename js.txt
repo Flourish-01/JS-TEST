@@ -14,7 +14,7 @@
 1. a. '*- multiplication' it is used to perform  multiplication  operation on number data type
       '+ - addition' it can be used to perform addition operation or concertination of strings
       '- subtraction' it is used to perform subtraction operation on number data type
-      '= assignment operator' it is used to assign the value on the write hand sideto equals the value on the left hand side 
+      '= assignment operator' it is used to assign the value on the write hand side to be equals the value on the left hand side 
       '/ - division operator' it is used to perform division operation on number data type
       '% - modulus operator' it is used to perform division operation on number data type and give the remainder
       '=== strict assignment operator' it  checks if the value is strictly the same in value and data type
@@ -24,6 +24,8 @@
 
        '> -greater than' it checks if the value on the left and side is greater than the value on the right and side
       '>= -greater than or equal to ' it checks if the value on the left and side is greater than or equal to the value on the right and side 
+      '== -double assignment operator ' - it checks if the value Right hand side = To value on the Left amd side 
+      ''
       
 
 
